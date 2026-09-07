@@ -1,110 +1,65 @@
-MS Dhoni IPL 2022 Performance Analysis
+# MS Dhoni IPL 2022 Performance Analysis
 
-Project Overview
+## Project Overview
 
-An interactive Power BI dashboard developed to analyze MS Dhoni's IPL 2022 performance. The dashboard presents batting performance, strike rate, boundaries, opponent-wise runs, match results, and detailed match-by-match statistics.
+An interactive Power BI dashboard developed to analyze MS Dhoni's batting performance during the IPL 2022 season.
 
-Business Objective
+The dashboard provides insights into match-wise performance, runs, strike rate, boundaries, opponent-wise performance, and CSK match results.
 
-The objective of this project was to create an interactive sports analytics dashboard that provides a clear view of player performance throughout IPL 2022 and allows users to explore match-level results and performance against different opponents.
+## Dashboard
 
-Tools & Technologies
+### Dashboard Page 1
 
-Power BI
+![MS Dhoni IPL Dashboard Page 1](Dhoni_IPL_Dashboard_Page1.png.jpeg)
 
-DAX
+### Dashboard Page 2
 
-Data Visualization
+![MS Dhoni IPL Dashboard Page 2](Dhoni_IPL_Dashboard_Page2.png.jpeg)
 
-Sports Analytics
+## Key Metrics
 
-Interactive Dashboard Design
+- Matches: 14
+- Runs: 195
+- Average Strike Rate: 130.65
+- Balls Faced: 176
+- Sixes: 11
+- Fours: 16
+- Catches: 8
 
-Key Performance Indicators
+## Key Analysis
 
-Matches: 14
+### Match-wise Performance
 
-Runs: 195
+Analyzed MS Dhoni's runs and strike rate across individual IPL 2022 matches to understand consistency and high-impact performances.
 
-Average Strike Rate: 130.65
+### Boundary Analysis
 
-Balls Faced: 176
+Analyzed the distribution of fours and sixes across matches to identify Dhoni's boundary-scoring contribution.
 
-Sixes: 11
+### Opponent-wise Performance
 
-Fours: 16
+Compared Dhoni's batting performance against different IPL teams, highlighting teams against which he scored more runs.
 
-Catches: 8
+### Match Results
 
-Analysis Performed
+Analyzed CSK's match results during IPL 2022 and compared wins and losses.
 
-Match-wise runs analysis
+## Tools Used
 
-Ball-wise runs analysis
+- Power BI
+- Data Visualization
+- Data Analysis
+- Microsoft Excel
 
-Opponent team-wise runs
+## Skills Demonstrated
 
-Match-wise strike rate
+- Data cleaning and preparation
+- KPI development
+- Interactive dashboard design
+- Data visualization
+- Performance analysis
+- Business-style storytelling with data
 
-Boundary analysis using fours and sixes
+## Project Outcome
 
-CSK match result analysis
-
-Detailed match-by-match performance
-
-Analysis of runs, balls, boundaries, strike rate, catches, stumpings, and match results
-
-Dashboard Features
-
-The dashboard is organized into two analytical pages.
-
-Page 1: Performance Overview
-
-Provides a high-level view of:
-
-Player performance KPIs
-
-Match-wise runs
-
-Ball-wise runs
-
-Opponent-wise runs
-
-CSK match results
-
-Page 2: Detailed Match Analysis
-
-Provides:
-
-Match-wise strike rate
-
-Boundary analysis
-
-Match-by-match performance table
-
-Opponent filtering
-
-Detailed match statistics
-
-Key Insights
-
-MS Dhoni scored 195 runs across 14 matches during IPL 2022.
-
-The dashboard highlights variation in batting performance across individual matches.
-
-Strike rate varied considerably from match to match.
-
-Boundary analysis provides a clear comparison of fours and sixes across matches.
-
-Opponent-wise analysis helps identify differences in performance against different teams.
-
-The match-level table provides detailed context for each performance, including runs, balls, boundaries, strike rate, result, catches, and stumpings.
-
-Project Outcome
-
-The dashboard transforms match-level cricket data into an interactive analytical report, making it easier to evaluate player performance, compare matches, and understand batting patterns throughout the IPL 2022 season.
-
-Dashboard Preview
-
-Page 1: Performance Overview
-Page 2: Detailed Match Analysis
+The dashboard provides a visual analysis of MS Dhoni's IPL 2022 performance and demonstrates how Power BI can be used to transform sports data into meaningful insights.
