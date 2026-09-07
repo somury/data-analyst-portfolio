@@ -49,6 +49,4 @@ The dashboard provides interactive filters for payment status, service, reason, 
 
 The dashboard provides an interactive view of digital payment performance and helps identify transaction trends, service-level contribution, and areas where unsuccessful transactions can be investigated further.
 
-## Dashboard Preview
 
-![PhonePe Transaction Dashboard](PhonePe_Transaction_Analysis.png)
