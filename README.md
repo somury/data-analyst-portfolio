@@ -1,91 +1,123 @@
-Swiggy Sales & Restaurant Performance Analysis
+# 👋 Hi, I'm Soma Sekhara Reddy
 
-Project Overview:
+### Data Analyst | Power BI | SQL | Python | Excel | GenAI
 
-An interactive Power BI dashboard developed to analyze Swiggy sales and restaurant performance. The dashboard provides insights into sales trends, order value, restaurant ratings, city-level performance, popular dishes, and location-wise pricing.
+Welcome to my Data Analyst Portfolio.
 
-Business Objective
+I am a data professional interested in transforming raw data into meaningful insights through data analysis, visualization, and AI-driven solutions.
 
-The objective of this project was to create an interactive dashboard that helps analyze food delivery sales performance across different cities, restaurants, dishes, ratings, and time periods.
+I enjoy building interactive dashboards, analyzing business data, and presenting insights in a clear and actionable way.
 
-Tools & Technologies:
+## 🛠️ Technical Skills
 
-Power BI
+### Data Analytics
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- KPI Analysis
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
 
-DAX
+### Tools & Technologies
+- **Power BI**
+- **SQL**
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Microsoft Excel**
+- **Generative AI**
+- **Large Language Models (LLMs)**
 
-Data Visualization
+# 📊 Featured Projects
 
-Business Analytics
+## 01. Swiggy Sales Analysis
 
-Interactive Dashboard Design
+📌 **Tools:** Power BI | Excel | Data Visualization
 
-Key Performance Indicators:
+An interactive Power BI dashboard designed to analyze Swiggy sales and restaurant performance.
 
-Total Sales: ₹53.01M
+### Key Analysis
+- Sales and order performance
+- Restaurant performance
+- Customer ratings
+- Popular food categories
+- City-level analysis
+- KPI tracking
 
-Average Rating: 4.34
+👉 **[View Swiggy Sales Analysis](./01_Swiggy_Sales_Analysis)**
 
-Average Order Value: ₹268.51
+---
 
-Total Orders: 197K
+## 02. PhonePe Transaction Analysis
 
-Number of Dishes: 197.4K
+📌 **Tools:** Power BI | Excel | Data Visualization
 
-Analysis Performed
+An interactive dashboard analyzing PhonePe digital payment transactions and transaction performance.
 
-Monthly sales analysis
+### Key Analysis
+- Transaction volume
+- Transaction value
+- Service-wise performance
+- Transaction status
+- Transaction reasons
+- Trend analysis
 
-Daily sales analysis
+👉 **[View PhonePe Transaction Analysis](./02_PhonePe_Transaction_Analysis)**
 
-City-wise order analysis
+---
 
-Top-rated restaurant analysis
+## 03. MS Dhoni IPL Performance Analysis
 
-Top 10 dishes analysis
+📌 **Tools:** Power BI | Excel | Data Visualization
 
-Location-wise price and rating analysis
+An interactive Power BI dashboard analyzing MS Dhoni's IPL 2022 batting performance.
 
-Order and sales performance analysis
+### Key Analysis
+- Match-wise runs
+- Strike rate
+- Fours and sixes
+- Opponent-wise performance
+- Match results
+- Performance KPIs
 
-Dashboard Features:
+👉 **[View Dhoni IPL Analysis](./03_Dhoni_IPL_Analysis)**
 
-The dashboard includes interactive city-level filtering and multiple visualizations for exploring sales and restaurant performance.
+---
 
-Monthly Sales
+# 📈 What I Can Do
 
-Analyzes sales trends across the available months to identify changes in sales performance over time.
+- Build interactive Power BI dashboards
+- Write SQL queries for data analysis
+- Clean and transform datasets
+- Perform exploratory data analysis using Python
+- Create meaningful KPIs and reports
+- Analyze business and customer data
+- Convert complex data into easy-to-understand visual insights
+- Explore GenAI and LLM-based solutions
 
-Daily Sales
+# 🎯 Career Focus
 
-Provides a detailed view of daily sales activity and helps identify variations and unusual spikes in sales.
+I am interested in opportunities related to:
+- Data Analyst
+- Business Intelligence Analyst
+- Power BI Developer
+- Reporting Analyst
+- Data & AI Analyst
 
-Top Rated Restaurants
-
-Highlights restaurants with strong customer ratings for performance comparison.
-
-Top 10 Dishes
-
-Displays the most prominent dishes based on the available order and sales data.
-
-Location-wise Orders, Price & Ratings
-
-Combines location-level order activity with price and rating metrics to compare restaurant and market performance.
-
-Key Insights:
-
-Total sales of ₹53.01M were recorded across approximately 197K orders.
-
-The average order value was ₹268.51.
-
-The average restaurant rating was 4.34.
-
-Monthly sales varied across the displayed period, with May showing one of the stronger monthly sales levels.
-
-The dashboard enables comparison of restaurant and order performance across multiple cities.
-
-The location-wise analysis provides a combined view of pricing, ratings, and order activity.
-
-Project Outcome:
-
-The dashboard transforms Swiggy sales and restaurant data into an interactive analytical report, making it easier to explore sales trends, restaurant performance, customer ratings, popular dishes, and city-level activity.
+# 📂 Portfolio Structure
+data-analyst-portfolio
+│
+├── 01_Swiggy_Sales_Analysis
+│   ├── README.md
+│   └── Dashboard
+│
+├── 02_PhonePe_Transaction_Analysis
+│   ├── README.md
+│   └── Dashboard
+│
+├── 03_Dhoni_IPL_Analysis
+│   ├── README.md
+│   └── Dashboard
+│
+├── profile.md
+└── README.md
